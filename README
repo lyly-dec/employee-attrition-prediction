@@ -1,3 +1,2 @@
-# 🔍 Employee Attrition Prediction
-Predicting employee turnover from HR data to identify the key drivers behind resignations, and comparing three classification approaches for the task.
-Dataset
+# Employee Retention Prediction Model
+Predicting employee turnover from HR data and identifying the key factors associated with employee attrition through exploratory analysis and machine learning.
